@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm junior game developer Kerem Çelikman</h1>
-<h3 align="center">A passionate Game developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm junior Software developer Kerem Çelikman</h1>
+<h3 align="center">A passionate Software developer from Turkey</h3>
 
 - 🌱 I’m currently learning **unity and csharp**
 
