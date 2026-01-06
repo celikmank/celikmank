@@ -1,14 +1,15 @@
 <h1 align="center">Merhaba, ben Kerem Çelikman 👋</h1>
 <p align="center">
-  <strong>Software Developer | Backend Enthusiast</strong>
+  <strong>Backend & Web Developer</strong>
 </p>
 
 ### 💫 Hakkımda
-Türkiye'de yaşayan, ölçeklenebilir ve performanslı sistemler geliştirmeye odaklanmış bir yazılım geliştiriciyim. Şu anda ağırlıklı olarak **Web teknolojileri ve Backend geliştirme** üzerine çalışıyorum.
+Türkiye'de yaşayan, backend ağırlıklı çalışan bir yazılım geliştiricisiyim. Ölçeklenebilir, sürdürülebilir ve bakımı kolay web uygulamaları geliştirmeye odaklanıyorum. Günlük çalışmalarım ağırlıklı olarak **Backend geliştirme** ve **Web tabanlı sistemler** üzerinedir.
 
-- 💻 Temel odak noktam: **C# ve .NET** ekosistemi.
-- 🌐 Web mimarileri ve API geliştirme süreçleriyle ilgileniyorum.
-- 🚀 Temiz kod prensipleri ve sürdürülebilir yazılım çözümleri üretmeyi hedefliyorum.
+- 💻 Ana uzmanlık alanım: **C# ve .NET**
+- 🌐 RESTful API, katmanlı mimari ve web uygulamaları geliştiriyorum
+- 🧩 Temiz kod, SOLID prensipleri ve sürdürülebilir mimarilerle ilgileniyorum
+- 🗄️ Veritabanı tasarımı ve backend performansı üzerine çalışıyorum
 
 ---
 
@@ -21,7 +22,7 @@ Türkiye'de yaşayan, ölçeklenebilir ve performanslı sistemler geliştirmeye 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
