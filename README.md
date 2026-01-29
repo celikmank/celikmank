@@ -6,7 +6,7 @@
 ---
 
 ### Hakkımda
-Türkiye'de yaşayan, backend ağırlıklı çalışan bir yazılım geliştiricisiyim.  
+İstanbul'da yaşayan, backend ağırlıklı çalışan bir yazılım geliştiricisiyim.  
 Web tabanlı sistemler, RESTful API’ler ve sürdürülebilir backend mimarileri üzerine çalışıyorum.
 
 - Ana teknoloji stack’im **C# ve .NET**
